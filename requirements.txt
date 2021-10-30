@@ -1,5 +1,4 @@
 nltk
-tensorflow
 keras
 scikit-learn
 flask
