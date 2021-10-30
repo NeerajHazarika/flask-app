@@ -1,5 +1,6 @@
-nltk
 keras
 scikit-learn
 flask
 numpy
+Flask-SQLAlchemy==2.4.0
+gunicorn==19.9.0
